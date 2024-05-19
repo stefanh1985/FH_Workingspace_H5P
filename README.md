@@ -137,6 +137,69 @@ Folgende Videos zeigen verschieden Tools in der direkten Anwendung
 
 
 
+## ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+
+<details>
+  <summary>Was ist H5P?</summary>
+  H5P ist ein Open-Source-Tool, mit dem du interaktive Inhalte wie Videos, Präsentationen, Quizze und vieles mehr erstellen kannst. Es wird oft in Bildungseinrichtungen verwendet, um Lerninhalte ansprechender zu gestalten.
+</details>
+
+<details>
+  <summary>Welche Arten von Inhalten kann ich mit H5P erstellen?</summary>
+  Mit H5P kannst du eine Vielzahl von interaktiven Inhalten erstellen, darunter:
+  - Interaktive Videos
+  - Präsentationen
+  - Quizze
+  - Drag-and-Drop-Aufgaben
+  - Zeitstrahlen
+  - und vieles mehr
+</details>
+
+
+<details>
+  <summary>Benötige ich Programmierkenntnisse, um H5P zu verwenden?</summary>
+  Nein, du benötigst keine Programmierkenntnisse, um H5P zu verwenden. Die Benutzeroberfläche ist benutzerfreundlich gestaltet und ermöglicht es dir, interaktive Inhalte durch einfaches Auswählen und Anpassen von Vorlagen zu erstellen.
+</details>
+
+<details>
+  <summary>Kann ich H5P-Inhalte in meiner Webseite einbetten?</summary>
+  Ja, du kannst H5P-Inhalte in jede Webseite einbetten, die iframes unterstützt. Nach der Erstellung eines H5P-Inhalts erhältst du einen Einbettungscode, den du einfach in den HTML-Code deiner Webseite einfügen kannst.
+</details>
+
+<details>
+  <summary>Wo finde ich Hilfe, wenn ich Probleme mit H5P habe?</summary>
+  Wenn du Hilfe benötigst, kannst du die offizielle H5P-Dokumentation und die Community-Foren nutzen. Dort findest du Anleitungen, Tutorials und Antworten auf häufig gestellte Fragen.
+</details>
+
+<details>
+  <summary>Kann ich meine H5P-Inhalte exportieren und importieren?</summary>
+  Ja, H5P ermöglicht es dir, deine Inhalte zu exportieren und auf einer anderen Plattform, die H5P unterstützt, wieder zu importieren. Dies ist besonders nützlich, wenn du an mehreren Projekten arbeitest oder deine Inhalte teilen möchtest.
+</details>
+
+
+<details>
+  <summary>Kann ich die erstellten Inhalte anpassen?</summary>
+  Ja, du kannst die erstellten Inhalte jederzeit anpassen und aktualisieren. H5P bietet eine Vielzahl von Vorlagen und Anpassungsoptionen, die es dir ermöglichen, die Inhalte nach deinen Bedürfnissen zu gestalten.
+</details>
+
+<details>
+  <summary>Ist H5P für mobile Geräte geeignet?</summary>
+  Ja, die mit H5P erstellten Inhalte sind responsiv und passen sich an verschiedene Bildschirmgrößen an. Das bedeutet, dass sie sowohl auf Desktops als auch auf mobilen Geräten gut angezeigt werden.
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
 # ❣️ Best Practice Beispiel(e)
 
 https://h5p.org/content-types-and-applications
